@@ -1,4 +1,4 @@
-### Hi there 👋
+### Engineering Technologist at the Geological Survey of Denmark and Greenland 👋
 
 <!--
 **geus-clan/geus-clan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
